@@ -1,0 +1,53 @@
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Build outputs
+/build/
+/app/build/
+
+# Keystore (NEVER commit this)
+*.jks
+*.keystore
+*.p12
+
+# Google Services (contains API keys)
+google-services.json
+GoogleService-Info.plist
+
+# Signing config (if stored in file)
+keystore.properties
+signing.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin / Java
+*.class
+*.jar
+*.war
+*.aar
+
+# Gradle cache
+
+gradle-wrapper.jar
+
+# NDK
+*.so
+obj/
+
+# Logs
+*.log
+
+# Room database exports (optional, include if you want schema history)
+app/schemas/
+
+# Proguard
+/app/proguard/
+
+# Test outputs
+/app/build/reports/
+/app/build/test-results/

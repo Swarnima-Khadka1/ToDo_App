@@ -1,18 +1,18 @@
-# 📱 TaskFlow — To-Do & Task Manager
+# TaskFlow — To-Do App
 
 A clean and modern Android task management app built with **Kotlin**, **Room Database**, and **MVVM Architecture**. Organize your daily tasks with categories, priorities, due dates, and offline storage.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Categories | Tasks |
 |------------|-------|
-| ![](Images/First.png) | ![](Images/Task.png) |
+| ![](Images/First.jpg) | ![](Images/Task.jpg) |
 
 ---
 
-## ✨ Features
+## Features
 
 - Create and manage task categories
 - Add, edit, delete, and complete tasks
@@ -24,7 +24,7 @@ A clean and modern Android task management app built with **Kotlin**, **Room Dat
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 This app follows the **MVVM (Model-ViewModel-Repository)** architecture.
 
@@ -40,7 +40,7 @@ Room Database
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Kotlin
 - Room Database
@@ -56,7 +56,7 @@ Room Database
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 com.example.taskflow
@@ -73,7 +73,7 @@ com.example.taskflow
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -93,7 +93,7 @@ git clone https://github.com/your-username/TaskFlow.git
 
 ---
 
-## 🌱 Default Categories
+## Default Categories
 
 - ☀️ Today
 - 👤 Personal
@@ -103,7 +103,7 @@ git clone https://github.com/your-username/TaskFlow.git
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Date Picker
 - Notifications & Reminders
@@ -115,6 +115,6 @@ git clone https://github.com/your-username/TaskFlow.git
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.

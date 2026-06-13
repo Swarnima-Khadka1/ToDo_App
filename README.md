@@ -6,9 +6,9 @@ A clean and modern Android task management app built with **Kotlin**, **Room Dat
 
 ## Screenshots
 
-| Categories | Tasks |
-|------------|-------|
-| ![](Images/First.jpg) | ![](Images/Task.jpg) |
+| Categories | Tasks | Add Task|
+|------------|-------|---------|
+| ![](Images/First.jpg) | ![](Images/Task.jpg) | ![](Images/info.jpg) |
 
 ---
 
